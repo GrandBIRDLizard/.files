@@ -231,5 +231,5 @@ exec xrandr --output DisplayPort-0 --off --output DisplayPort-1 --off --output D
 
 exec_always --no-startup-id feh --bg-scale /home/jmoney/WindowsXP.jpg
 
-exec --no-startup-id compton
+exec --no-startup-id picom 
 

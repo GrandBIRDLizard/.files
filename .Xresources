@@ -1,0 +1,11 @@
+!look&feel 
+URxvt*font:xft:monospace:style:Regular:size=12 
+URxvt*foreground: #00FF00
+URxvt*background: #000000
+URxvt*scrollBar: False
+URxvt*cursorBlink: True
+URxvt*cursorUnderline: True
+URxvt*urllauncher: /usr/bin/firefox 
+URxvt*transparent: True
+URxvt*shading: 18 
+
